@@ -1,0 +1,21 @@
+C:\Users\Annebicque\source\repos\SupervisionHomeIo\HomeIo\bin\Debug\HomeIo.dll
+C:\Users\Annebicque\source\repos\SupervisionHomeIo\HomeIo\bin\Debug\HomeIo.pdb
+C:\Users\Annebicque\source\repos\SupervisionHomeIo\HomeIo\bin\Debug\EngineIO.dll
+C:\Users\Annebicque\source\repos\SupervisionHomeIo\HomeIo\obj\Debug\HomeIo.csprojResolveAssemblyReference.cache
+C:\Users\Annebicque\source\repos\SupervisionHomeIo\HomeIo\obj\Debug\HomeIo.csproj.CoreCompileInputs.cache
+C:\Users\Annebicque\source\repos\SupervisionHomeIo\HomeIo\obj\Debug\HomeIo.dll
+C:\Users\Annebicque\source\repos\SupervisionHomeIo\HomeIo\obj\Debug\HomeIo.pdb
+D:\Cours DUT\Systèmes auto\SupervisionHome-master\HomeIo\bin\Debug\HomeIo.dll
+D:\Cours DUT\Systèmes auto\SupervisionHome-master\HomeIo\bin\Debug\HomeIo.pdb
+D:\Cours DUT\Systèmes auto\SupervisionHome-master\HomeIo\obj\Debug\HomeIo.csprojResolveAssemblyReference.cache
+D:\Cours DUT\Systèmes auto\SupervisionHome-master\HomeIo\obj\Debug\HomeIo.csproj.CoreCompileInputs.cache
+D:\Cours DUT\Systèmes auto\SupervisionHome-master\HomeIo\obj\Debug\HomeIo.dll
+D:\Cours DUT\Systèmes auto\SupervisionHome-master\HomeIo\obj\Debug\HomeIo.pdb
+D:\Cours DUT\Systèmes auto\SupervisionHome-master\HomeIo\obj\Debug\HomeIo.csproj.CopyComplete
+D:\Cours DUT\Systèmes auto\SupervisionHomeIo\HomeIo\bin\Debug\HomeIo.dll
+D:\Cours DUT\Systèmes auto\SupervisionHomeIo\HomeIo\bin\Debug\HomeIo.pdb
+D:\Cours DUT\Systèmes auto\SupervisionHomeIo\HomeIo\obj\Debug\HomeIo.csprojResolveAssemblyReference.cache
+D:\Cours DUT\Systèmes auto\SupervisionHomeIo\HomeIo\obj\Debug\HomeIo.csproj.CoreCompileInputs.cache
+D:\Cours DUT\Systèmes auto\SupervisionHomeIo\HomeIo\obj\Debug\HomeIo.csproj.CopyComplete
+D:\Cours DUT\Systèmes auto\SupervisionHomeIo\HomeIo\obj\Debug\HomeIo.dll
+D:\Cours DUT\Systèmes auto\SupervisionHomeIo\HomeIo\obj\Debug\HomeIo.pdb

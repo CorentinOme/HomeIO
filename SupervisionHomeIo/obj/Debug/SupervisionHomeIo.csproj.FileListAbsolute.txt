@@ -1,0 +1,41 @@
+C:\Users\Annebicque\source\repos\SupervisionHomeIo\SupervisionHomeIo\bin\Debug\SupervisionHomeIo.exe.config
+C:\Users\Annebicque\source\repos\SupervisionHomeIo\SupervisionHomeIo\bin\Debug\SupervisionHomeIo.exe
+C:\Users\Annebicque\source\repos\SupervisionHomeIo\SupervisionHomeIo\bin\Debug\SupervisionHomeIo.pdb
+C:\Users\Annebicque\source\repos\SupervisionHomeIo\SupervisionHomeIo\bin\Debug\HomeIo.dll
+C:\Users\Annebicque\source\repos\SupervisionHomeIo\SupervisionHomeIo\bin\Debug\EngineIO.dll
+C:\Users\Annebicque\source\repos\SupervisionHomeIo\SupervisionHomeIo\bin\Debug\HomeIo.pdb
+C:\Users\Annebicque\source\repos\SupervisionHomeIo\SupervisionHomeIo\obj\Debug\SupervisionHomeIo.csprojResolveAssemblyReference.cache
+C:\Users\Annebicque\source\repos\SupervisionHomeIo\SupervisionHomeIo\obj\Debug\SupervisionHomeIo.Form1.resources
+C:\Users\Annebicque\source\repos\SupervisionHomeIo\SupervisionHomeIo\obj\Debug\SupervisionHomeIo.Properties.Resources.resources
+C:\Users\Annebicque\source\repos\SupervisionHomeIo\SupervisionHomeIo\obj\Debug\SupervisionHomeIo.csproj.GenerateResource.Cache
+C:\Users\Annebicque\source\repos\SupervisionHomeIo\SupervisionHomeIo\obj\Debug\SupervisionHomeIo.csproj.CoreCompileInputs.cache
+C:\Users\Annebicque\source\repos\SupervisionHomeIo\SupervisionHomeIo\obj\Debug\SupervisionHomeIo.exe
+C:\Users\Annebicque\source\repos\SupervisionHomeIo\SupervisionHomeIo\obj\Debug\SupervisionHomeIo.pdb
+D:\Cours DUT\Systèmes auto\SupervisionHome-master\SupervisionHomeIo\bin\Debug\SupervisionHomeIo.exe.config
+D:\Cours DUT\Systèmes auto\SupervisionHome-master\SupervisionHomeIo\bin\Debug\SupervisionHomeIo.exe
+D:\Cours DUT\Systèmes auto\SupervisionHome-master\SupervisionHomeIo\bin\Debug\SupervisionHomeIo.pdb
+D:\Cours DUT\Systèmes auto\SupervisionHome-master\SupervisionHomeIo\bin\Debug\HomeIo.dll
+D:\Cours DUT\Systèmes auto\SupervisionHome-master\SupervisionHomeIo\bin\Debug\EngineIO.dll
+D:\Cours DUT\Systèmes auto\SupervisionHome-master\SupervisionHomeIo\bin\Debug\HomeIo.pdb
+D:\Cours DUT\Systèmes auto\SupervisionHome-master\SupervisionHomeIo\obj\Debug\SupervisionHomeIo.csprojResolveAssemblyReference.cache
+D:\Cours DUT\Systèmes auto\SupervisionHome-master\SupervisionHomeIo\obj\Debug\SupervisionHomeIo.Form1.resources
+D:\Cours DUT\Systèmes auto\SupervisionHome-master\SupervisionHomeIo\obj\Debug\SupervisionHomeIo.Properties.Resources.resources
+D:\Cours DUT\Systèmes auto\SupervisionHome-master\SupervisionHomeIo\obj\Debug\SupervisionHomeIo.csproj.GenerateResource.Cache
+D:\Cours DUT\Systèmes auto\SupervisionHome-master\SupervisionHomeIo\obj\Debug\SupervisionHomeIo.csproj.CoreCompileInputs.cache
+D:\Cours DUT\Systèmes auto\SupervisionHome-master\SupervisionHomeIo\obj\Debug\SupervisionHomeIo.exe
+D:\Cours DUT\Systèmes auto\SupervisionHome-master\SupervisionHomeIo\obj\Debug\SupervisionHomeIo.pdb
+D:\Cours DUT\Systèmes auto\SupervisionHome-master\SupervisionHomeIo\obj\Debug\SupervisionHomeIo.csproj.CopyComplete
+D:\Cours DUT\Systèmes auto\SupervisionHomeIo\SupervisionHomeIo\obj\Debug\SupervisionHomeIo.csprojResolveAssemblyReference.cache
+D:\Cours DUT\Systèmes auto\SupervisionHomeIo\SupervisionHomeIo\obj\Debug\SupervisionHomeIo.Form1.resources
+D:\Cours DUT\Systèmes auto\SupervisionHomeIo\SupervisionHomeIo\obj\Debug\SupervisionHomeIo.Properties.Resources.resources
+D:\Cours DUT\Systèmes auto\SupervisionHomeIo\SupervisionHomeIo\obj\Debug\SupervisionHomeIo.csproj.GenerateResource.cache
+D:\Cours DUT\Systèmes auto\SupervisionHomeIo\SupervisionHomeIo\obj\Debug\SupervisionHomeIo.csproj.CoreCompileInputs.cache
+D:\Cours DUT\Systèmes auto\SupervisionHomeIo\SupervisionHomeIo\obj\Debug\SupervisionHomeIo.exe
+D:\Cours DUT\Systèmes auto\SupervisionHomeIo\SupervisionHomeIo\obj\Debug\SupervisionHomeIo.pdb
+D:\Cours DUT\Systèmes auto\SupervisionHomeIo\SupervisionHomeIo\bin\Debug\SupervisionHomeIo.exe.config
+D:\Cours DUT\Systèmes auto\SupervisionHomeIo\SupervisionHomeIo\bin\Debug\SupervisionHomeIo.exe
+D:\Cours DUT\Systèmes auto\SupervisionHomeIo\SupervisionHomeIo\bin\Debug\SupervisionHomeIo.pdb
+D:\Cours DUT\Systèmes auto\SupervisionHomeIo\SupervisionHomeIo\bin\Debug\HomeIo.dll
+D:\Cours DUT\Systèmes auto\SupervisionHomeIo\SupervisionHomeIo\bin\Debug\EngineIO.dll
+D:\Cours DUT\Systèmes auto\SupervisionHomeIo\SupervisionHomeIo\bin\Debug\HomeIo.pdb
+D:\Cours DUT\Systèmes auto\SupervisionHomeIo\SupervisionHomeIo\obj\Debug\SupervisionHomeIo.csproj.CopyComplete
